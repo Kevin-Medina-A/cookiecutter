@@ -1,0 +1,10 @@
+{
+    "project_name": "MI PROYECTO DE PRUEBA",
+    "project_slug": "mi_proyecto_de_prueba",
+    "author_name": "KEVIN MEDINA",
+    "project_description": "DESCRIPCIÓN DEL PROYECTO",
+    "email": "kevin.medina@unisimon.edu.co",
+    "project_packages": ["all", "minimal"],
+    "python_version": "Python 3.13.7"
+}
+   
