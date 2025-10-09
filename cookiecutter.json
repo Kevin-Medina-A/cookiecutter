@@ -1,0 +1,9 @@
+{
+    "project_name": "MI PROYECTO DE PRUEBA",
+    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
+    "author_name": "KEVIN MEDINA",
+    "project_description": "DESCRIPCIÓN DEL PROYECTO",
+    "email": "prueba_cuenta@dominio",
+    "project_packages": ["all", "minimal"],
+    "python_version": "3.9"
+}
